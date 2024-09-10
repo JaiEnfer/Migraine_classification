@@ -1,1 +1,2 @@
-In this notebook, the target is to classify the type of migraine (a type of headache), given a set of features that are extracted from patient's medical records.In our approach, we'll make use of different machine learning models for classification of migraine headache into **7** possible classes.
+
+In this project, the goal is to classify the type of migraine (a type of headache), given a set of features that are extracted from patient's medical records.In our approach, it is done by the use of different machine learning models for classification of migraine headache into **7** possible classes and use data augmentation techniques like SMOTE, Resampling, ADASYN to address the problem of data imbalance.
