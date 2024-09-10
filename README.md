@@ -1,0 +1,1 @@
+In this notebook, the target is to classify the type of migraine (a type of headache), given a set of features that are extracted from patient's medical records.In our approach, we'll make use of different machine learning models for classification of migraine headache into **7** possible classes.
